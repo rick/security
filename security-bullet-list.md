@@ -12,20 +12,22 @@ There is a more detailed document focusing on strategies for securing your compu
  - [ ] Enable encryption on your phone. [iphone](https://ssd.eff.org/en/module/how-encrypt-your-iphone), [android](https://www.howtogeek.com/141953/how-to-encrypt-your-android-phone-and-why-you-might-want-to/)
  - [ ] Install an encrypted communications applications (e.g., [Signal](https://whispersystems.org/)) and move to using this for SMS and phone calls when communicating about sensitive issues.
  - [ ] Turn off location services on your phone for photos. (Posting photos to social media can identify where you live, work, meet, protest, etc.).
- - [ ] Read up on information related to [attending protests in the USA](https://ssd.eff.org/en/playlist/activist-or-protester#attending-protests-united-states)
  - [ ] Consider removing social media applications from your phone (facebook, twitter, instagram, snapchat, etc.); get in the habit of communicating by other means; be intentional about what you post to social media, and where you post from.
+ - [ ] Read up on information related to [attending protests in the USA](https://ssd.eff.org/en/playlist/activist-or-protester#attending-protests-united-states).
+   - [ ] Consider pulling your phone battery or SIM card if you are attending a protest where surveillance is likely.
 
 
 ## Computers
 
- - [ ] Enable a [strong password](https://www.schneier.com/blog/archives/2014/03/choosing_secure_1.html) on your computer. Booting up your computer should require a password. Unlocking your screen saver should require a password.
- - [ ] Encrypt your computer hard drive. [Apple FileVault](https://support.apple.com/en-us/HT204837)
+ - [ ] Enable a [strong password](https://www.schneier.com/blog/archives/2014/03/choosing_secure_1.html) on your computer. Booting up your computer should require a password. Unlocking your screen saver should require a password. Get in the habit of locking your screen whenever you are not sitting at it.
+ - [ ] Encrypt your computer hard drive.
+    - [Apple FileVault](https://support.apple.com/en-us/HT204837)
     - For Microsoft Windows, the story is more complicated:
       - "[Encrypting Windows Hard Drives](https://www.schneier.com/blog/archives/2015/06/encrypting_wind.html)"
       - "[Microsoft may have your encryption key; here’s how to take it back](https://arstechnica.com/information-technology/2015/12/microsoft-may-have-your-encryption-key-heres-how-to-take-it-back/)"
  - [ ] Install a [virus scanner](http://www.pcmag.com/article2/0,2817,2372364,00.asp) if you use Microsoft Windows.
  - [ ] Get and use a password manager such as [1Password](https://1password.com/) or [LastPass](https://www.lastpass.com/). Use strong unique passwords for every account.
- - [ ] Enable two-factor authentication (2FA) for your email accounts, bank accounts, any domain name registrars.
+ - [ ] Enable two-factor authentication (2FA) for your email accounts, DropBox (or Box) account, bank accounts, any domain name registrars.
  - [ ] Install browser tools to disable plugins, ads, and tracking:
    - Chrome:
      - [Adblock Plus](https://adblockplus.org/)
