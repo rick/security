@@ -25,7 +25,8 @@ steps inline.
 ### Secure group chat and file sharing via Semaphor
 
  - [ ] Download [Semaphor](https://spideroak.com/personal/semaphor) from https://spideroak.com/opendownload and install on your computer.
- - [ ] Have an existing Semaphor user invite you to their Semaphor room via URL. This URL should be sent through ProtonMail.
+ - [ ] Create a Semaphor account, and use your ProtonMail email as your email address.  **Do not misplace your recovery code**
+ - [ ] Have an existing Semaphor user invite you to their Semaphor Team via URL. This URL should be sent through ProtonMail.
  - [ ] Connect to the existing Semaphor chat.
  - [ ] Create your own Semaphor Team.
  - [ ] Invite your same friend to your Semaphor team using Semaphor chat or ProtonMail to send the invite.
@@ -34,6 +35,12 @@ steps inline.
  - [ ] **WARNING**: Note that the free version of Semaphor expires chats and files after 30 days. Plan accordingly.
 
 ### Secure password management with 1Password (optional, but recommended)
+
+Note: 1Password is only one of the widely used password vaults. Some other
+options are [LastPass](https://www.lastpass.com/) and
+[KeePass](http://keepass.info/). Using any good password vault is a huge
+improvement over not using one at all.  Instructions below are for 1Password,
+but adjust accordingly for other tools.
 
  - [ ] Download and install [1Password](https://1password.com/) from https://1password.com/downloads/
  - [ ] Create your vault with a secure passphrase. [Help for creating a strong passphrase](https://www.schneier.com/blog/archives/2014/03/choosing_secure_1.html)
