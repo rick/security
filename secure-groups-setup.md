@@ -25,7 +25,7 @@ steps inline.
 ### Secure group chat and file sharing via Semaphor
 
  - [ ] Download [Semaphor](https://spideroak.com/personal/semaphor) from https://spideroak.com/opendownload and install on your computer.
- - [ ] Create a Semaphor account, and use your ProtonMail email as your email address.  **Do not misplace your recovery code**
+ - [ ] Create a Semaphor account, and use your ProtonMail email as your email address.  **Do not misplace your recovery key** If you have a password vault such as 1Password, store it there.
  - [ ] Have an existing Semaphor user invite you to their Semaphor Team via URL. This URL should be sent through ProtonMail.
  - [ ] Connect to the existing Semaphor chat.
  - [ ] Create your own Semaphor Team.
