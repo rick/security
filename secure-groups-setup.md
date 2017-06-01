@@ -16,9 +16,11 @@ steps inline.
 ### Secure email via ProtonMail
 
  - [ ] Go to [ProtonMail](https://protonmail.com/) and create an email address.
- - [ ] Test ProtonMail by sending an encrypted email to a friend outside ProtonMail. Share the decryption password with them via Signal.
+ - [ ] Test ProtonMail by sending an encrypted email to a friend outside ProtonMail. Note: the "lock" button at the bottom of the message will allow you to specify the encryption password. Share the decryption password with them via Signal. 
  - [ ] Test ProtonMail by sending an encrypted email to a friend using ProtonMail.
- - [ ] Install ProtonMail on your mobile device(s). (optional)
+ - [ ] Notifications:
+   - [ ] Either: install ProtonMail on your mobile device(s).
+   - [ ] Or: set up ProtonMail settings to notify you by email.
 
 ### Secure group chat and file sharing via Semaphor
 
