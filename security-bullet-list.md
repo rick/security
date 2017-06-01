@@ -25,6 +25,7 @@ There is a more detailed document focusing on strategies for securing your compu
     - For Microsoft Windows, the story is more complicated:
       - "[Encrypting Windows Hard Drives](https://www.schneier.com/blog/archives/2015/06/encrypting_wind.html)"
       - "[Microsoft may have your encryption key; here’s how to take it back](https://arstechnica.com/information-technology/2015/12/microsoft-may-have-your-encryption-key-heres-how-to-take-it-back/)"
+      - "[How to Enable Full-Disk Encryption on Windows 10](https://www.howtogeek.com/234826/how-to-enable-full-disk-encryption-on-windows-10/)"
  - [ ] Install a [virus scanner](http://www.pcmag.com/article2/0,2817,2372364,00.asp) if you use Microsoft Windows.
  - [ ] Get and use a password manager such as [1Password](https://1password.com/) or [LastPass](https://www.lastpass.com/). Use strong unique passwords for every account.
  - [ ] Enable two-factor authentication (2FA) for your email accounts, DropBox (or Box) account, bank accounts, any domain name registrars.
