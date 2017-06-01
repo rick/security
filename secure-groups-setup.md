@@ -42,6 +42,15 @@ options are [LastPass](https://www.lastpass.com/) and
 improvement over not using one at all.  Instructions below are for 1Password,
 but adjust accordingly for other tools.
 
+A note about using 1Password on multiple devices: Since one of the advantages
+of using a password vault is that it's easy to generate complex, long, and
+random unique passwords; you'll quickly find that an account created on your
+desktop computer has a password you might want to have access to on your phone.
+For this reason, it's customary to sync your password vaults, and 1Password
+supports this.  Here we presume you're using Dropbox to sync your password
+vault, but any other means of syncing that works for you is totally acceptable.
+
+
  - [ ] Download and install [1Password](https://1password.com/) from https://1password.com/downloads/
  - [ ] Create your vault with a secure passphrase. [Help for creating a strong passphrase](https://www.schneier.com/blog/archives/2014/03/choosing_secure_1.html)
  - [ ] Always use 1Password to create passwords. Generate strong, random, unique passwords for every login.
